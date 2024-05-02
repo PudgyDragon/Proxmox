@@ -5,6 +5,14 @@ Repository for Proxmox guides. Guides are based on personal experience
 <table>
   <tr>
     <td>
+      <a href="https://github.com/PudgyDragon/Proxmox/blob/main/security_hardening.md">Security Hardening</a>
+    </td>
+    <td>
+      <p>Security hardening suggestions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/PudgyDragon/Proxmox/blob/main/audit.rules">Audit Rules</a>
     </td>
     <td>
